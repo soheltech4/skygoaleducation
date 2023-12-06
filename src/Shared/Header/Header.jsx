@@ -9,6 +9,7 @@ const Header = () => {
             <Link to="/" className={`px-3 hover:font-bold  hover:duration-5000 ${location.pathname === '/about' ? 'active-link font-bold  text-black' : ''}`}>About</Link>
             <Link to="/" className={`px-3 hover:font-bold  hover:duration-5000 ${location.pathname === '/schedules' ? 'active-link font-bold  text-black' : ''}`}>Schedules</Link>
             <Link to="/" className={`px-3 hover:font-bold hover:duration-5000 ${location.pathname === '/membership' ? 'active-link font-bold  text-black' : ''}`}>Membership</Link>
+            <Link to="/" className={`px-3 hover:font-bold hover:duration-5000 ${location.pathname === '/pricing' ? 'active-link font-bold  text-black' : ''}`}>Pricing</Link>
         </>
     </>
 
@@ -31,7 +32,7 @@ const Header = () => {
             </div>
             <div className="navbar-end gap-6">
                 <Link className="">Offers</Link>
-                <a className="btn rounded-full">Courses</a>
+                <a className="btn hover:bg-[#F27A44] rounded-full text-white bg-[#F27A44]">Courses</a>
             </div>
         </div>
     );
