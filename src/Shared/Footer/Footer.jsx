@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Footer = () => {
     return (
-        <footer className="footer flex md:justify-center justify-between items-center container mx-auto">
+        <footer className="footer flex md:justify-center justify-between items-center container mx-auto mb-10">
             <nav className='md:flex'>
                 <a className="link px-3 link-hover">Privacy Policy</a>
                 <a className="link px-3 link-hover">Terms of Use</a>
