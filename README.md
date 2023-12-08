@@ -1,3 +1,8 @@
-# React + Vite
+SKY GOAL EDUCATION:
+This is a Educational Website.
 
-SKY GOAL EDUCATION
+Technologies:
+React & Tailwind
+
+Live: https://skygoaleducation.netlify.app
+Github: https://github.com/sohelranagtc/skygoaleducation.git
