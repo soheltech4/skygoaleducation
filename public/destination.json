@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Harvard University",
+      "location": "Cambridge, Massachusetts, UK",
+      "rating": 4.5,
+      "image_url": "https://i.ibb.co/nQn7PZS/card-image.png",
+      "Exclusive": "Exclusive"
+    },
+    {
+      "name": "Oxford University",
+      "location": "Oxford, England",
+      "rating": 3.8,
+      "image_url": "https://i.ibb.co/1KsQWWB/card-image-1.png",
+      "Exclusive": "Exclusive"
+    },
+    {
+      "name": "Stanford University",
+      "location": "Stanford, California",
+      "rating": 4.2,
+      "image_url": "https://i.ibb.co/MSNG64v/card-image-2.png",
+      "Exclusive": "Exclusive"
+    },
+    {
+      "name": "Nanyang Technological University",
+      "location": "Nanyang Ave, Singapura",
+      "rating": 4.2,
+      "image_url": "https://i.ibb.co/1KsQWWB/card-image-1.png",
+      "Exclusive": "Exclusive"
+    }
+  ]
