@@ -3,7 +3,7 @@ import React from 'react';
 const BookNow = () => {
     return (
         <div className='md:flex justify-between md:px-52 p-3 mb-20 items-center'>
-            <img src="https://i.ibb.co/42mxP1P/Group-167.png" className='md:w-2/6 mb-10' alt="" />
+            <img src="OneDrive/Group 167.png" className='md:w-2/6 mb-10' alt="" />
             <div className='rounded-md p-5 shadow-xl md:w-1/3'>
                 <h1 className='font-bold md:text-4xl text-3xl'>Book Now</h1>
                 <p className='text-xl'>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>

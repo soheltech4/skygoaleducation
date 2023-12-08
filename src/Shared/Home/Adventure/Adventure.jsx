@@ -18,21 +18,21 @@ const Adventure = () => {
             </div>
             <div>
                 <div className='flex gap-4 justify-center items-center shadow-lg rounded-lg md:w-5/6 mb-10 p-2'>
-                    <img src="https://i.ibb.co/42mxP1P/Group-167.png" className='w-16' alt="" />
+                    <img src="OneDrive/Group 167.png" className='w-16' alt="" />
                     <div>
                         <h1 className='font-bold'>Jenny Wilson</h1>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing...</p>
                     </div>
                 </div>
                 <div className='flex gap-4 justify-center items-center shadow-lg rounded-lg md:w-5/6 mb-10 p-2'>
-                    <img src="https://i.ibb.co/JxFmthD/Mask-group.png" className='w-16' alt="" />
+                    <img src="OneDrive/Group 171.png" className='w-16' alt="" />
                     <div>
                         <h1 className='font-bold'>Jenny Wilson</h1>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing...</p>
                     </div>
                 </div>
                 <div className='flex gap-4 justify-center items-center shadow-lg rounded-lg md:w-5/6 mb-10 p-2'>
-                    <img src="https://i.ibb.co/42mxP1P/Group-167.png" className='w-16' alt="" />
+                    <img src="OneDrive/Mask group.png" className='w-16' alt="" />
                     <div>
                         <h1 className='font-bold'>Jenny Wilson</h1>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing...</p>

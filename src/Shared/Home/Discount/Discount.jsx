@@ -3,7 +3,7 @@ import React from 'react';
 const Discount = () => {
     return (
         <div className='md:flex md:flex-row-reverse justify-between items-center md:px-32 p-10'>
-            <img src="https://i.ibb.co/JxFmthD/Mask-group.png" className='md:w-2/6 mb-10' alt="" />
+            <img src="OneDrive/Mask group.png" className='md:w-2/6 mb-10' alt="" />
             <div className='md:w-5/6'>
                 <p className='text-xl'>Get 20% off for student</p>
                 <p className='md:text-5xl font-bold text-3xl'>Student discounts available.</p>

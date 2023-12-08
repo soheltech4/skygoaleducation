@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const Banner = () => {
     return (
         <div className='bg-[#FDFBF4] md:flex justify-between items-center md:px-20 p-10'>
@@ -9,7 +10,7 @@ const Banner = () => {
                 <p className='text-xl mt-5'>Lorem ipsum dolor sit amet consectetur. Sit mattis donec mi bibendum integer rutrum nisi. A nec nisl vitae </p>
                 <button className='btn mt-5 rounded-full px-10 bg-[#F27A44] text-white hover:bg-[#F27A44]'>SIGN UP</button>
             </div>
-            <img src="https://i.ibb.co/C8mBmyX/Group-171.png" className='md:w-2/6' alt="" />
+            <img src="/OneDrive/Group 171.png" className='md:w-2/6' alt="" />
         </div>
     );
 };
